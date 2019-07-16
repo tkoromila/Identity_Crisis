@@ -4,6 +4,7 @@ Distinct roles of broadly-expressed repressors support  dynamic enhancer action 
 Cell Reports, 2019, https://doi.org/10.1016/j.celrep.2019.06.063
 
 Segmentation and Matlab code description:
+
 To start analysis of data for nc11 or later timepoints, MCP-GFP and Nup-RFP slices were maximally projected for each time point using Fiji
 software. 
 For segmentation of the signal in both channels, we first used a Gaussian Filter (GF) (GF=0.55) in Fiji software as used in other MS2-MCP
